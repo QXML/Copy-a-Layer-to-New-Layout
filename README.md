@@ -17,7 +17,7 @@ This sample ships with QuarkXPress 2018
 ![Step 2](http://www.quarkforums.com/resources/git/install_images/step2.png)
 3. Save to your Desktop
 4. Unzip (so that you get a folder)
-5. Copy the resulting folder to the below location for MacOS or Windows
+5. Copy the resulting folder to the js folder in your documents folder (**see below**)
 6. In QuarkXPress open the "JavaScript" palette  
 (via "Window" menu)
 7. If you do not see a folder with the name of this JavaScript, click on the little "Home" ("House") symbol.  
