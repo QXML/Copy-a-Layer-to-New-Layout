@@ -10,6 +10,8 @@ None
 This sample ships with QuarkXPress 2018
 ### Screenshots
 ![Choose layer](http://www.quarkforums.com/resources/git/md_images/samplelayertoanewlayout1.png)
+### Version History  
+May 2018: Original version as supplied with QuarkXPress 2018
 ## <a name="howinstall"></a>How to install
 1. On the GitHub page, download the ZIP by clicking on the green button "Clone or download"  
 ![Step 1](http://www.quarkforums.com/resources/git/install_images/step1.png)
@@ -29,3 +31,7 @@ Step 5: On MacOS copy to|Step 5: On Windows copy to
 (so into your "Documents" folder)|(so into your "Documents" folder)
 
 **Run the JavaScript by first double clicking the folder; and then double clicking the Script itself (in the JavaScript palette of QuarkXPress).**
+
+## More Information
+More information on QuarkXPress and how to use JavaScript in QuarkXPress can be found here:  
+<http://www.quark.com/Support/Documentation/QuarkXPress/>
